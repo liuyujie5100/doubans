@@ -1,0 +1,25 @@
+<template>
+  <div id="app">
+ 
+    <router-view/>
+  </div>
+</template>
+
+<script>
+
+export default {
+  
+}
+</script>
+
+<style>
+
+*{
+  margin:0;
+  padding:0;
+  background-color:white;
+}
+html{
+  font-size: 26.67vw;
+}
+</style>
